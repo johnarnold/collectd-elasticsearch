@@ -21,7 +21,7 @@ import socket
 import collections
 
 PREFIX = "elasticsearch"
-ES_CLUSTER = "elasticsearch"
+ES_CLUSTER = "logstash"
 ES_HOST = "localhost"
 ES_PORT = 9200
 ES_VERSION = "1.0"
